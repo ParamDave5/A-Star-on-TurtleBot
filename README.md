@@ -26,7 +26,8 @@ Test case 2: start co-ordinates = (1, 1, 0), end co-ordinates = (9, 9)
 
 Radius = 0.105, Clearance = 0.3  
 
-<img src = "https://github.com/AbhijitMahalle/A-star_on_turtlebot/blob/master/gif/output1.gif">  
+<img src = "https://github.com/ParamDave5/A-Star-on-TurtleBot-/tree/f6bcbcae63351680b0a4364b6bca34264b205ad6/gif/output1.gif">  
+
 
 ### For ROS Turtlebot with holonomic constraints:
 To spawn the robot in Gazebo:
@@ -42,5 +43,5 @@ python turtlebot.py
 Test case 1: start co-ordinates = (1, 1, 0), end co-ordinate = (9, 9)  
 Radius = 0.105, Clearance = 0.3, RPM1 = 15, RPM1 = 10  
 
-<img src = "https://github.com/AbhijitMahalle/A-star_on_turtlebot/blob/master/gif/turtlebot.gif" width = "500" height = "500">  
+<img src = "https://github.com/ParamDave5/A-Star-on-TurtleBot-/tree/f6bcbcae63351680b0a4364b6bca34264b205ad6/gif/turtlebot.gif" width = "500" height = "500">  
 
